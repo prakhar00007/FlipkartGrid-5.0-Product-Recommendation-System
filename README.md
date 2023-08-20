@@ -41,3 +41,12 @@ The main functions for using the recommendation system are:
 - **`get_recommendations2(product_name, min_price, max_price)`** - recommends products in given price range
 
 - **`get_recommendations3(product_name, min_price, max_price, min_discount)`** - recommends products in price range with minimum discount % filter
+
+Here is an additional section in the README for including a PPT:
+
+## **Presentation**
+Here is an additional section in the README for including a PPT:
+[Personalized-Product-Recommendations.pptx](https://github.com/Ankit-005/Product-Recommendation-System/files/12388108/Personalized-Product-Recommendations.pptx)
+
+
+  
