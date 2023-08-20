@@ -45,7 +45,7 @@ The main functions for using the recommendation system are:
 Here is an additional section in the README for including a PPT:
 
 ## **Presentation**
-Here is an additional section in the README for including a PPT:
+Here is an additional section including a PPT:
 [Personalized-Product-Recommendations.pptx](https://github.com/Ankit-005/Product-Recommendation-System/files/12388108/Personalized-Product-Recommendations.pptx)
 
 
