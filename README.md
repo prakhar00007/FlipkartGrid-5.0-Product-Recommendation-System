@@ -4,10 +4,13 @@
 This is a content-based product recommendation system that suggests similar products to a given product.
 
 
-
-
 ## **How it works**
 The system works by analyzing the product metadata - name, description, brand, categories etc - and extracting keywords from this text data. The keywords are used to calculate similarity between products using TF-IDF vectors and cosine similarity. Products that are textually similar based on the metadata are recommended.
+
+
+https://github.com/Ankit-005/Product-Recommendation-System/assets/82441640/58e6d59d-99f3-44b3-baf3-94e203e9b2d0
+
+
 
 Additional filters can be applied like:
 
